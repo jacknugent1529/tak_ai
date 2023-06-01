@@ -1,6 +1,6 @@
 # Tak Board Game AI (In Progress)
 
-AI agent for the board game [Tak](https://en.wikipedia.org/wiki/Tak_(game)). The algorithm is trained based on Monte Carlo tree search with neural networks for policy and evaluation functions. The main resources were [TTIC 31230 notes](https://mcallester.github.io/ttic-31230/).
+AI agent for the board game [Tak](https://en.wikipedia.org/wiki/Tak_(game)). The algorithm is trained based on Monte Carlo tree search with neural networks for policy and evaluation functions. The primary resources used were [TTIC 31230 notes](https://mcallester.github.io/ttic-31230/).
 
 ## Organization
 
